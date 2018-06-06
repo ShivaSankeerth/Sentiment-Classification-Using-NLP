@@ -1,0 +1,14 @@
+python version -> 3.5.x
+Dependencies:
+1)Numpy
+2)Matplotlib
+3)Pandas
+4)Sklearn
+5)NLTK
+
+Classifier Used is Gaussian_naive-bayes
+
+Classification Quantifying Metrics:
+1)Confusion-matrix
+2)Accuracy-score
+3)Classification-report
