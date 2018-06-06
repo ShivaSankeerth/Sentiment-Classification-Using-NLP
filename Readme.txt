@@ -1,3 +1,5 @@
+Natural Language Based  Machine-Learning Model to classify customer reviews into either positive or negative class
+
 python version -> 3.5.x
 Dependencies:
 1)Numpy
